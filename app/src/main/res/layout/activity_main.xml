@@ -16,18 +16,18 @@
             android:layout_width="0dp"
             android:layout_height="wrap_content"
             android:layout_weight="1"
-            android:text="TechShop"
+            android:text="Tech Solutions"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
 
         <Button
             android:id="@+id/btnCesta"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="🛒 Cesta (0)"
-            android:textColor="#1565C0"
-            android:backgroundTint="#FFFFFF"/>
+            android:backgroundTint="#FFFFFF"
+            android:text="🛒 Carrinho (0)"
+            android:textColor="#1565C0" />
 
     </LinearLayout>
 

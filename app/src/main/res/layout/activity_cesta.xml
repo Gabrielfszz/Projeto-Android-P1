@@ -14,10 +14,10 @@
         <TextView
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="🛒 Minha Cesta"
+            android:text="🛒 Meu Carrinho"
             android:textColor="#FFFFFF"
             android:textSize="20sp"
-            android:textStyle="bold"/>
+            android:textStyle="bold" />
     </LinearLayout>
 
     <androidx.recyclerview.widget.RecyclerView
